@@ -1,0 +1,36 @@
+.btn {
+  display: block;
+  padding: 10px 30px;
+
+  border: 1px solid rgb(52, 157, 255);
+  color: #349dff;
+  border-radius: 4px;
+  background: transparent;
+
+  text-align: center;
+
+  min-width: 100px;
+
+  &:hover {
+    color: #fff;
+    background: #54bcff;
+  }
+
+  &:active {
+    color: #fff;
+    background: #6bdaff;
+  }
+
+  &--add {
+    border: #349dff;
+    background: #349dff;
+    color: #fff;
+  }
+
+  &[disabled] {
+    border: #e8e8e8;
+    background: #e8e8e8;
+    color: #505050;
+    font-style: italic;
+  }
+}

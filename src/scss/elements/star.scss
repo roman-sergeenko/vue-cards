@@ -1,0 +1,9 @@
+.star {
+  &__border {
+    z-index: 1;
+    color: #ddd021;
+  }
+  &__background {
+    opacity: 0;
+  }
+}

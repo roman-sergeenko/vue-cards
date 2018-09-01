@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Huawei P Lite 2000",
+    "current_price": 899,
+    "old_price": 1199,
+    "img": "huawei.png"
+  },
+  {
+    "name": "Samsung S99",
+    "current_price": 110,
+    "old_price": 1899,
+    "img": "samsung.png"
+  },
+  {
+    "name": "Huawei NP 101",
+    "current_price": 777,
+    "img": "huawei.png"
+  },
+  {
+    "name": "Samsung",
+    "img": "samsung.png"
+  },
+  {
+    "name": "auawei P Lite 2005",
+    "current_price": 899,
+    "old_price": 1199,
+    "img": "huawei.png"
+  },
+  {
+    "name": "Zamsung S9912",
+    "current_price": 1499,
+    "old_price": 1899,
+    "img": "samsung.png"
+  },
+  {
+    "name": "Huawei NP 112",
+    "current_price": 777,
+    "img": "huawei.png"
+  },
+  {
+    "name": "Damsung czx",
+    "img": "samsung.png"
+  },
+  {
+    "name": "Huawei P Lite 20daw",
+    "current_price": 899,
+    "old_price": 1199,
+    "img": "huawei.png"
+  },
+  {
+    "name": "mamsung S99daw",
+    "current_price": 110,
+    "old_price": 1899,
+    "img": "samsung.png"
+  },
+  {
+    "name": "Huawai Sadaw",
+    "current_price": 310,
+    "old_price": 832,
+    "img": "samsung.png"
+  }
+]

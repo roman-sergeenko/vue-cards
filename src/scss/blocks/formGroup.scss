@@ -1,0 +1,14 @@
+.formGroup {
+  display: flex;
+  align-items: center;
+
+  &__label {
+    margin-left: 6px;
+
+    user-select: none;
+  }
+
+  &__label, &__check {
+    cursor: pointer;
+  }
+}

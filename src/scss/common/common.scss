@@ -1,0 +1,29 @@
+select {
+  border: 1px solid #dedede;
+  border-radius: 3px;
+  padding: 6px 12px;
+}
+
+input[type=checkbox] {
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+  border: 1px solid #dedede;
+  outline: 0;
+  cursor: pointer;
+  appearance: none;
+  position: relative;
+  min-width: 14px;
+
+  &:checked:before {
+    content: '';
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    border-radius: 2px;
+    background: #349dff;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+}

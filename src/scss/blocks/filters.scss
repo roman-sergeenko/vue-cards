@@ -1,0 +1,20 @@
+.filters {
+  display: flex;
+  flex-direction: column;
+
+
+  @include for-tablet-up {
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  .formSection {
+    margin-bottom: 20px;
+
+    @include for-tablet-up {
+      margin-left: 30px;
+      margin-bottom: 0;
+    }
+  }
+}

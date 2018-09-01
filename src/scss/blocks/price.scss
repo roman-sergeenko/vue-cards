@@ -1,0 +1,18 @@
+.price {
+  font-size: 16px;
+
+  &__old {
+    font-size: 16px;
+
+    &--discount {
+      font-style: italic;
+      text-decoration: line-through;
+      color: #717171;
+    }
+  }
+
+  &__noPrice {
+    font-style: italic;
+    color: #717171;
+  }
+}
